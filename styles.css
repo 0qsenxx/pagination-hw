@@ -36,3 +36,13 @@ ul {
     border-radius: 30px;
     cursor: pointer;
 }
+
+.search-photos__input {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 5px;
+    border-radius: 15px;
+}
